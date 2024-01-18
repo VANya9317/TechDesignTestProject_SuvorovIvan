@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: text_translate_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 0b98c29e6e80b0d43a0adcd2b348ba3c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 58629742592
+    m_Localized: "T\xFCrk\xE7e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223608496128
+    m_Localized: Sonraki sahne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381658259456
+    m_Localized: "\xD6nceki sahne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 998019620864
+    m_Localized: "Animasyonu etkinle\u015Ftirmek i\xE7in ekran\u0131n ortas\u0131ndaki
+      korsana t\u0131klay\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1783453376512
+    m_Localized: "Bu sahnede omurga animasyonu olan bir karakter yer al\u0131yor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34195117891584
+    m_Localized: "Seviye de\u011Fi\u015Ftirme d\xFC\u011Fmesini g\xF6r\xFCnt\xFClemek
+      i\xE7in pembe y\u0131ld\u0131za t\u0131klay\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43963720427823104
+    m_Localized: "Seviye de\u011Fi\u015Ftirme d\xFC\u011Fmesini g\xF6r\xFCnt\xFClemek
+      i\xE7in korsana t\u0131klay\u0131n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

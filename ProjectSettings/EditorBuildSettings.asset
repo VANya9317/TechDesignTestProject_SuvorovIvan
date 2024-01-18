@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/first_scene.unity
+    guid: a371f1a809fcb6f43931ff0556d1d495
+  - enabled: 1
+    path: Assets/Scene/second_scene.unity
+    guid: ec625c75a1a9b8f4fa64e4edac94948e
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 84a9ac70b756ab4418849ccc68691be9, type: 2}
+    com.unity.localization.addressable-group-rules: {fileID: 11400000, guid: 7bb5e7fe9d1bbf24d8383917f74207a6, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 43d65f1480bb42a45bcf2d52efa9fc6d, type: 2}
